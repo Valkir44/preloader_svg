@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.page-preloader {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(15deg, #4D2E2E, #2C3039);
+
+}
+
+.preloader {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -32.5px;
+    margin-left: -32.5px;
+    transform-origin: 50% 50%;
+}
